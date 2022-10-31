@@ -1,0 +1,34 @@
+:root {
+    --color1: #d3cccc;
+    --color2:#883f0e;
+    --color3:#e4ba49;
+    --color4:#206992;
+    --color5:#967419;
+}
+
+.backnav{
+    background-color: var(--color1);
+}
+
+.backall{
+    background-color: var(--color3);
+}
+.backall2{
+    background-color: var(--color4);
+}
+
+.btn-outline{
+    --bs-btn-active-bg: var(--orange);
+}
+
+.backnav{
+    background-color: #ABB9DE;
+}
+
+.border-color-card{
+    border-color: var(--color5);
+}
+
+.text{
+    color: var(--red);
+}
